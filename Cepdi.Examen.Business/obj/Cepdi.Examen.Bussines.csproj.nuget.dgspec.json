@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Business\\Cepdi.Examen.Bussines.csproj": {}
+  },
+  "projects": {
+    "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Business\\Cepdi.Examen.Bussines.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Business\\Cepdi.Examen.Bussines.csproj",
+        "projectName": "Cepdi.Examen.Bussines",
+        "projectPath": "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Business\\Cepdi.Examen.Bussines.csproj",
+        "packagesPath": "C:\\Users\\LIZIE\\.nuget\\packages\\",
+        "outputPath": "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LIZIE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Data\\Cepdi.Examen.Data.csproj": {
+                "projectPath": "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Data\\Cepdi.Examen.Data.csproj"
+              },
+              "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Models\\Cepdi.Examen.Models.csproj": {
+                "projectPath": "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Models\\Cepdi.Examen.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Data\\Cepdi.Examen.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Data\\Cepdi.Examen.Data.csproj",
+        "projectName": "Cepdi.Examen.Data",
+        "projectPath": "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Data\\Cepdi.Examen.Data.csproj",
+        "packagesPath": "C:\\Users\\LIZIE\\.nuget\\packages\\",
+        "outputPath": "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LIZIE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Models\\Cepdi.Examen.Models.csproj": {
+                "projectPath": "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Models\\Cepdi.Examen.Models.csproj"
+              },
+              "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Tools\\Cepdi.Examen.Tools.csproj": {
+                "projectPath": "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Tools\\Cepdi.Examen.Tools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Models\\Cepdi.Examen.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Models\\Cepdi.Examen.Models.csproj",
+        "projectName": "Cepdi.Examen.Models",
+        "projectPath": "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Models\\Cepdi.Examen.Models.csproj",
+        "packagesPath": "C:\\Users\\LIZIE\\.nuget\\packages\\",
+        "outputPath": "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LIZIE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Tools\\Cepdi.Examen.Tools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Tools\\Cepdi.Examen.Tools.csproj",
+        "projectName": "Cepdi.Examen.Tools",
+        "projectPath": "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Tools\\Cepdi.Examen.Tools.csproj",
+        "packagesPath": "C:\\Users\\LIZIE\\.nuget\\packages\\",
+        "outputPath": "D:\\Downloads\\Cepdi.WebApi-master\\Cepdi.Tools\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LIZIE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\Downloads\Cepdi.WebApi-master\Cepdi.Tools\bin\Debug\net5.0\Cepdi.Tools.deps.json
+D:\Downloads\Cepdi.WebApi-master\Cepdi.Tools\bin\Debug\net5.0\Cepdi.Tools.dll
+D:\Downloads\Cepdi.WebApi-master\Cepdi.Tools\bin\Debug\net5.0\ref\Cepdi.Tools.dll
+D:\Downloads\Cepdi.WebApi-master\Cepdi.Tools\bin\Debug\net5.0\Cepdi.Tools.pdb
+D:\Downloads\Cepdi.WebApi-master\Cepdi.Tools\obj\Debug\net5.0\Cepdi.Tools.csproj.AssemblyReference.cache
+D:\Downloads\Cepdi.WebApi-master\Cepdi.Tools\obj\Debug\net5.0\Cepdi.Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Cepdi.WebApi-master\Cepdi.Tools\obj\Debug\net5.0\Cepdi.Tools.AssemblyInfoInputs.cache
+D:\Downloads\Cepdi.WebApi-master\Cepdi.Tools\obj\Debug\net5.0\Cepdi.Tools.AssemblyInfo.cs
+D:\Downloads\Cepdi.WebApi-master\Cepdi.Tools\obj\Debug\net5.0\Cepdi.Tools.csproj.CoreCompileInputs.cache
+D:\Downloads\Cepdi.WebApi-master\Cepdi.Tools\obj\Debug\net5.0\Cepdi.Tools.dll
+D:\Downloads\Cepdi.WebApi-master\Cepdi.Tools\obj\Debug\net5.0\ref\Cepdi.Tools.dll
+D:\Downloads\Cepdi.WebApi-master\Cepdi.Tools\obj\Debug\net5.0\Cepdi.Tools.pdb
